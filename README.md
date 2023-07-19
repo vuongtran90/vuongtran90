@@ -7,6 +7,7 @@
 
 ---
 
-<p align="center">Front-End developer at <a href="https://anymindgroup.com/" target="_blank" rel="noreferrer">AnyMind Group</a>, where my main focus lies in enhancing and creating user interfaces for the company platform.</p>
+<p align="center">Front-End developer at <a href="https://anymindgroup.com/" target="_blank" rel="noreferrer">AnyMind Group</a> </p>
+<p align="center">My main focus lies in enhancing and creating user interfaces for the company platform.</p>
 
 <p align="center">Currently living in Bangkok.</p>
