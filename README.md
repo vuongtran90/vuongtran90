@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Vuong</h3>
 
-<p align="center">
+<p>
   <a href="http://vuongtran.co/" target="_blank" rel="noreferrer">Website</a> •
   <a href="https://www.linkedin.com/in/vuongtran90" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
