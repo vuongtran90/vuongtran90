@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Vuong</h3>
+<h3>👋 Hi, I'm Vuong</h3>
 
 <p>
   <a href="http://vuongtran.co/" target="_blank" rel="noreferrer">Website</a> •
