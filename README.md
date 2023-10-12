@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vuong Tran, front-End developer currently living in Bangkok, with over 8 years of experience in crafting engaging and user-friendly web experiences.
+I'm Vuong Tran, front-end developer currently living in Bangkok, with over 8 years of experience in crafting engaging and user-friendly web experiences.
 
 I've spent more than 6 years of my career as a front-end developer at [AnyMind Group](https://anymindgroup.com/).
 
