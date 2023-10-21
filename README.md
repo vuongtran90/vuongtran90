@@ -4,4 +4,4 @@ I'm Vuong Tran, front-end developer based in Bangkok, with over 8 years of exper
 
 I work mainly with web technologies such as Javascript, Typescript, React, Angular, Nextjs and Tailwind, and I occasionally dabble in Svelte.
 
-More about me on <a href="http://vuongtran.co/" target="_blank">my site</a>, and you can also reach me via email at <a href="mailto:hello@vuongtran.co" target="_blank">hello@vuongtran.co</a>
+More about me on <a href="https://vuongtran.co/" target="_blank">https://vuongtran.co</a>, and you can also reach me via email at <a href="mailto:hello@vuongtran.co" target="_blank">hello@vuongtran.co</a>
