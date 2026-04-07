@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vuong Tran, front-end developer based in Bangkok, with over 8 years of experience in crafting engaging and user-friendly web experiences, currently working at <a href="https://anymindgroup.com/" target="_blank">AnyMind Group</a>
+I'm Vuong Tran, front-end engineer based in Bangkok, with over 10 years of experience in crafting engaging and user-friendly web experiences, currently working at <a href="https://anymindgroup.com/" target="_blank">AnyMind Group</a>
 
 I work mainly with web technologies such as Javascript, Typescript, React, Angular, Nextjs and Tailwind, and I occasionally dabble in Svelte.
 
